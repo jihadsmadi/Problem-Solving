@@ -1,0 +1,9 @@
+﻿  CurrencyProject.cpp
+C:\Users\USER\source\repos\CurrencyProject\CurrencyProject\clsString.h(43,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\USER\source\repos\CurrencyProject\CurrencyProject\clsString.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\USER\source\repos\CurrencyProject\CurrencyProject\clsString.h(61,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\USER\source\repos\CurrencyProject\CurrencyProject\clsString.h(198,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\USER\source\repos\CurrencyProject\CurrencyProject\clsString.h(331,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\USER\source\repos\CurrencyProject\CurrencyProject\clsString.h(380,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\USER\source\repos\CurrencyProject\CurrencyProject\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  CurrencyProject.vcxproj -> C:\Users\USER\source\repos\CurrencyProject\x64\Debug\CurrencyProject.exe

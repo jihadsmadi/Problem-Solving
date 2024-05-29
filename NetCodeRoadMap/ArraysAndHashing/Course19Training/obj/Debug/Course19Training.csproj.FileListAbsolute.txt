@@ -1,0 +1,13 @@
+D:\Work Space\Programming\Problem Solving\NetCodeRoadMap\ArraysAndHashing\Course19Training\bin\Debug\Course19Training.exe.config
+D:\Work Space\Programming\Problem Solving\NetCodeRoadMap\ArraysAndHashing\Course19Training\bin\Debug\Course19Training.exe
+D:\Work Space\Programming\Problem Solving\NetCodeRoadMap\ArraysAndHashing\Course19Training\bin\Debug\Course19Training.pdb
+D:\Work Space\Programming\Problem Solving\NetCodeRoadMap\ArraysAndHashing\Course19Training\obj\Debug\Course19Training.csproj.AssemblyReference.cache
+D:\Work Space\Programming\Problem Solving\NetCodeRoadMap\ArraysAndHashing\Course19Training\obj\Debug\Course19Training.csproj.SuggestedBindingRedirects.cache
+D:\Work Space\Programming\Problem Solving\NetCodeRoadMap\ArraysAndHashing\Course19Training\obj\Debug\Course19Training.Form1.resources
+D:\Work Space\Programming\Problem Solving\NetCodeRoadMap\ArraysAndHashing\Course19Training\obj\Debug\Course19Training.Form2.resources
+D:\Work Space\Programming\Problem Solving\NetCodeRoadMap\ArraysAndHashing\Course19Training\obj\Debug\Course19Training.Properties.Resources.resources
+D:\Work Space\Programming\Problem Solving\NetCodeRoadMap\ArraysAndHashing\Course19Training\obj\Debug\Course19Training.csproj.GenerateResource.cache
+D:\Work Space\Programming\Problem Solving\NetCodeRoadMap\ArraysAndHashing\Course19Training\obj\Debug\Course19Training.csproj.CoreCompileInputs.cache
+D:\Work Space\Programming\Problem Solving\NetCodeRoadMap\ArraysAndHashing\Course19Training\obj\Debug\Course19Training.exe
+D:\Work Space\Programming\Problem Solving\NetCodeRoadMap\ArraysAndHashing\Course19Training\obj\Debug\Course19Training.pdb
+D:\Work Space\Programming\Problem Solving\NetCodeRoadMap\ArraysAndHashing\Course19Training\obj\Debug\Course19Training.uctDemo.resources

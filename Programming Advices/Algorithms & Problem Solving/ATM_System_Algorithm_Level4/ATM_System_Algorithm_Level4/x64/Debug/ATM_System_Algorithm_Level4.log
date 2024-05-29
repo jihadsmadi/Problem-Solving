@@ -1,0 +1,3 @@
+﻿  ATM_System_Algorithm_Level4.cpp
+C:\Users\USER\source\repos\ATM_System_Algorithm_Level4\ATM_System_Algorithm_Level4\ATM_System_Algorithm_Level4.cpp(59,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  ATM_System_Algorithm_Level4.vcxproj -> C:\Users\USER\source\repos\ATM_System_Algorithm_Level4\x64\Debug\ATM_System_Algorithm_Level4.exe

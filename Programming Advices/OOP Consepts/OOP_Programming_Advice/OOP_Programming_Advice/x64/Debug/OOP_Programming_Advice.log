@@ -1,0 +1,182 @@
+﻿  OOP_Programming_Advice.cpp
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(9,9): error C3646: '_FirstName': unknown override specifier
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(9,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(10,9): error C3646: '_LastName': unknown override specifier
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(10,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(11,9): error C3646: '_Email': unknown override specifier
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(11,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(12,9): error C3646: '_Phone': unknown override specifier
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(12,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(18,13): error C2061: syntax error: identifier 'string'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(27,20): error C2061: syntax error: identifier 'string'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(32,9): error C3646: 'GetFirstName': unknown override specifier
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(32,21): error C2059: syntax error: '('
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(33,2): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(36,70): error C3646: 'FirstName': unknown override specifier
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(36,79): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(38,19): error C2061: syntax error: identifier 'string'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(43,9): error C3646: 'GetLastName': unknown override specifier
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(43,20): error C2059: syntax error: '('
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(44,2): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(47,68): error C3646: 'LastName': unknown override specifier
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(47,76): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(49,9): error C3646: 'FullName': unknown override specifier
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(49,17): error C2059: syntax error: '('
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(50,2): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(54,16): error C2061: syntax error: identifier 'string'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(59,9): error C3646: 'GetEmail': unknown override specifier
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(59,17): error C2059: syntax error: '('
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(60,2): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(63,62): error C3646: 'Email': unknown override specifier
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(63,67): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(66,16): error C2061: syntax error: identifier 'string'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(71,9): error C3646: 'GetPhone': unknown override specifier
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(71,17): error C2059: syntax error: '('
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(72,2): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(75,62): error C3646: 'Phone': unknown override specifier
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(75,67): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(20,3): error C2065: '_FirstName': undeclared identifier
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(20,16): error C2065: 'FirstName': undeclared identifier
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(21,3): error C2065: '_LastName': undeclared identifier
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(21,15): error C2065: 'LastName': undeclared identifier
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(22,3): error C2065: '_Email': undeclared identifier
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(22,12): error C2065: 'Email': undeclared identifier
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(23,3): error C2065: '_Phone': undeclared identifier
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(23,12): error C2065: 'Phone': undeclared identifier
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(29,3): error C2065: '_FirstName': undeclared identifier
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(29,16): error C2065: 'FirstName': undeclared identifier
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(40,3): error C2065: '_LastName': undeclared identifier
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(40,15): error C2065: 'LastName': undeclared identifier
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(56,3): error C2065: '_Email': undeclared identifier
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(56,12): error C2065: 'Email': undeclared identifier
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(68,3): error C2065: '_Phone': undeclared identifier
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsPerson.h(68,12): error C2065: 'Phone': undeclared identifier
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsString.h(43,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsString.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsString.h(61,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsString.h(198,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsString.h(331,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsString.h(380,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsUser.h(36,28): error C2039: 'FirstName': is not a member of 'clsUser'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsUser.h(10,7): message : see declaration of 'clsUser'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsUser.h(37,28): error C2039: 'LastName': is not a member of 'clsUser'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsUser.h(10,7): message : see declaration of 'clsUser'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsUser.h(38,28): error C2039: 'Email': is not a member of 'clsUser'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsUser.h(10,7): message : see declaration of 'clsUser'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsUser.h(39,28): error C2039: 'Phone': is not a member of 'clsUser'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsUser.h(10,7): message : see declaration of 'clsUser'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsUser.h(163,18): error C2661: 'clsPerson::clsPerson': no overloaded function takes 4 arguments
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsUser.h(163,18): message : while trying to match the argument list '(std::string, std::string, std::string, std::string)'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsInputValidate.h(115,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsInputValidate.h(119,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(36,34): error C2039: 'FirstName': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(37,34): error C2039: 'LastName': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(38,34): error C2039: 'Email': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(39,34): error C2039: 'Phone': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(155,18): error C2661: 'clsPerson::clsPerson': no overloaded function takes 4 arguments
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(155,18): message : while trying to match the argument list '(std::string, std::string, std::string, std::string)'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(359,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(369,28): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsClientListScreen.h(16,52): error C2039: 'FullName': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsClientListScreen.h(17,52): error C2039: 'Phone': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsClientListScreen.h(18,52): error C2039: 'Email': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsAddNewClientScreen.h(15,16): error C2039: 'FirstName': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsAddNewClientScreen.h(18,16): error C2039: 'LastName': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsAddNewClientScreen.h(21,16): error C2039: 'Email': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsAddNewClientScreen.h(24,16): error C2039: 'Phone': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsAddNewClientScreen.h(30,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsAddNewClientScreen.h(37,46): error C2039: 'FirstName': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsAddNewClientScreen.h(38,46): error C2039: 'LastName': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsAddNewClientScreen.h(39,46): error C2039: 'FullName': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsAddNewClientScreen.h(40,46): error C2039: 'Email': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsAddNewClientScreen.h(41,46): error C2039: 'Phone': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsDeleteScreen.h(16,46): error C2039: 'FirstName': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsDeleteScreen.h(17,46): error C2039: 'LastName': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsDeleteScreen.h(18,46): error C2039: 'FullName': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsDeleteScreen.h(19,46): error C2039: 'Email': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsDeleteScreen.h(20,46): error C2039: 'Phone': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsUpdateClientScreen.h(17,46): error C2039: 'FirstName': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsUpdateClientScreen.h(18,46): error C2039: 'LastName': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsUpdateClientScreen.h(19,46): error C2039: 'FullName': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsUpdateClientScreen.h(20,46): error C2039: 'Email': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsUpdateClientScreen.h(21,46): error C2039: 'Phone': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsUpdateClientScreen.h(32,16): error C2039: 'FirstName': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsUpdateClientScreen.h(35,16): error C2039: 'LastName': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsUpdateClientScreen.h(38,16): error C2039: 'Email': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsUpdateClientScreen.h(41,16): error C2039: 'Phone': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsUpdateClientScreen.h(47,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsFindClient.h(16,46): error C2039: 'FirstName': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsFindClient.h(17,46): error C2039: 'LastName': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsFindClient.h(18,46): error C2039: 'FullName': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsFindClient.h(19,46): error C2039: 'Email': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsFindClient.h(20,46): error C2039: 'Phone': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsDepositScreen.h(17,46): error C2039: 'FirstName': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsDepositScreen.h(18,46): error C2039: 'LastName': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsDepositScreen.h(19,46): error C2039: 'FullName': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsDepositScreen.h(20,46): error C2039: 'Email': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsDepositScreen.h(21,46): error C2039: 'Phone': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsWithdrawScreen.h(16,46): error C2039: 'FirstName': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsWithdrawScreen.h(17,46): error C2039: 'LastName': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsWithdrawScreen.h(18,46): error C2039: 'FullName': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsWithdrawScreen.h(19,46): error C2039: 'Email': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsWithdrawScreen.h(20,46): error C2039: 'Phone': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsTotalBalancesScreen.h(16,52): error C2039: 'FullName': is not a member of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsBankClient.h(10,7): message : see declaration of 'clsBankClient'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsUserListScreen.h(17,50): error C2039: 'FullName': is not a member of 'clsUser'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsUser.h(10,7): message : see declaration of 'clsUser'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsUserListScreen.h(18,50): error C2039: 'Phone': is not a member of 'clsUser'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsUser.h(10,7): message : see declaration of 'clsUser'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsUserListScreen.h(19,50): error C2039: 'Email': is not a member of 'clsUser'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsUser.h(10,7): message : see declaration of 'clsUser'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsAddNewUserScreen.h(16,14): error C2039: 'FirstName': is not a member of 'clsUser'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsUser.h(10,7): message : see declaration of 'clsUser'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsAddNewUserScreen.h(19,14): error C2039: 'LastName': is not a member of 'clsUser'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsUser.h(10,7): message : see declaration of 'clsUser'
+C:\Users\USER\source\repos\OOP_Programming_Advice\OOP_Programming_Advice\clsAddNewUserScreen.h(19,1): fatal  error C1003: error count exceeds 100; stopping compilation

@@ -1,0 +1,11 @@
+﻿  SedraProductionCompany.cpp
+C:\Users\USER\source\repos\SedraProductionCompany\SedraProductionCompany\clsString.h(43,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\USER\source\repos\SedraProductionCompany\SedraProductionCompany\clsString.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\USER\source\repos\SedraProductionCompany\SedraProductionCompany\clsString.h(61,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\USER\source\repos\SedraProductionCompany\SedraProductionCompany\clsString.h(198,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\USER\source\repos\SedraProductionCompany\SedraProductionCompany\clsString.h(331,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\USER\source\repos\SedraProductionCompany\SedraProductionCompany\clsString.h(380,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\USER\source\repos\SedraProductionCompany\SedraProductionCompany\clsInputValidate.h(113,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\source\repos\SedraProductionCompany\SedraProductionCompany\clsInputValidate.h(117,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\source\repos\SedraProductionCompany\SedraProductionCompany\clsAddNewClientScreen.h(58,12): warning C4129: 'C': unrecognized character escape sequence
+  SedraProductionCompany.vcxproj -> C:\Users\USER\source\repos\SedraProductionCompany\x64\Debug\SedraProductionCompany.exe

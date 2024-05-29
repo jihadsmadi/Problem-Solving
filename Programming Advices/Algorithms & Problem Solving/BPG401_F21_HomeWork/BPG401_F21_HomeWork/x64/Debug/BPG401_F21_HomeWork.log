@@ -1,0 +1,14 @@
+﻿  BPG401_F21_HomeWork.cpp
+C:\Users\USER\source\repos\BPG401_F21_HomeWork\BPG401_F21_HomeWork\clsString.h(43,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\USER\source\repos\BPG401_F21_HomeWork\BPG401_F21_HomeWork\clsString.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\USER\source\repos\BPG401_F21_HomeWork\BPG401_F21_HomeWork\clsString.h(61,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\USER\source\repos\BPG401_F21_HomeWork\BPG401_F21_HomeWork\clsString.h(198,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\USER\source\repos\BPG401_F21_HomeWork\BPG401_F21_HomeWork\clsString.h(331,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\USER\source\repos\BPG401_F21_HomeWork\BPG401_F21_HomeWork\clsString.h(380,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\USER\source\repos\BPG401_F21_HomeWork\BPG401_F21_HomeWork\clsInputValidate.h(115,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\source\repos\BPG401_F21_HomeWork\BPG401_F21_HomeWork\clsInputValidate.h(119,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\source\repos\BPG401_F21_HomeWork\BPG401_F21_HomeWork\clsQustion.h(188,11): warning C4129: 'R': unrecognized character escape sequence
+C:\Users\USER\source\repos\BPG401_F21_HomeWork\BPG401_F21_HomeWork\clsQustion.h(55): warning C4715: 'clsQustion::_UserResult': not all control paths return a value
+C:\Users\USER\source\repos\BPG401_F21_HomeWork\BPG401_F21_HomeWork\clsUtil.h(49): warning C4715: 'clsUtil::GetRandomCharacter': not all control paths return a value
+C:\Users\USER\source\repos\BPG401_F21_HomeWork\BPG401_F21_HomeWork\clsQustion.h(71): warning C4715: 'clsQustion::_isNumber': not all control paths return a value
+  BPG401_F21_HomeWork.vcxproj -> C:\Users\USER\source\repos\BPG401_F21_HomeWork\x64\Debug\BPG401_F21_HomeWork.exe

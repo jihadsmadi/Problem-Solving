@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\AlgorithmsAndDataStructuer\AlgorithmsAndDataStructuer\bin\Debug\net7.0\AlgorithmsAndDataStructuer.exe
+C:\Users\USER\source\repos\AlgorithmsAndDataStructuer\AlgorithmsAndDataStructuer\bin\Debug\net7.0\AlgorithmsAndDataStructuer.deps.json
+C:\Users\USER\source\repos\AlgorithmsAndDataStructuer\AlgorithmsAndDataStructuer\bin\Debug\net7.0\AlgorithmsAndDataStructuer.runtimeconfig.json
+C:\Users\USER\source\repos\AlgorithmsAndDataStructuer\AlgorithmsAndDataStructuer\bin\Debug\net7.0\AlgorithmsAndDataStructuer.dll
+C:\Users\USER\source\repos\AlgorithmsAndDataStructuer\AlgorithmsAndDataStructuer\bin\Debug\net7.0\AlgorithmsAndDataStructuer.pdb
+C:\Users\USER\source\repos\AlgorithmsAndDataStructuer\AlgorithmsAndDataStructuer\obj\Debug\net7.0\AlgorithmsAndDataStructuer.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\AlgorithmsAndDataStructuer\AlgorithmsAndDataStructuer\obj\Debug\net7.0\AlgorithmsAndDataStructuer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\AlgorithmsAndDataStructuer\AlgorithmsAndDataStructuer\obj\Debug\net7.0\AlgorithmsAndDataStructuer.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\AlgorithmsAndDataStructuer\AlgorithmsAndDataStructuer\obj\Debug\net7.0\AlgorithmsAndDataStructuer.AssemblyInfo.cs
+C:\Users\USER\source\repos\AlgorithmsAndDataStructuer\AlgorithmsAndDataStructuer\obj\Debug\net7.0\AlgorithmsAndDataStructuer.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\AlgorithmsAndDataStructuer\AlgorithmsAndDataStructuer\obj\Debug\net7.0\AlgorithmsAndDataStructuer.dll
+C:\Users\USER\source\repos\AlgorithmsAndDataStructuer\AlgorithmsAndDataStructuer\obj\Debug\net7.0\refint\AlgorithmsAndDataStructuer.dll
+C:\Users\USER\source\repos\AlgorithmsAndDataStructuer\AlgorithmsAndDataStructuer\obj\Debug\net7.0\AlgorithmsAndDataStructuer.pdb
+C:\Users\USER\source\repos\AlgorithmsAndDataStructuer\AlgorithmsAndDataStructuer\obj\Debug\net7.0\AlgorithmsAndDataStructuer.genruntimeconfig.cache
+C:\Users\USER\source\repos\AlgorithmsAndDataStructuer\AlgorithmsAndDataStructuer\obj\Debug\net7.0\ref\AlgorithmsAndDataStructuer.dll

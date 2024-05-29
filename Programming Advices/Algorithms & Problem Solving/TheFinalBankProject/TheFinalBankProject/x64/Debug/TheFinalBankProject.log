@@ -1,0 +1,22 @@
+﻿  TheFinalBankProject.cpp
+C:\Users\USER\source\repos\TheFinalBankProject\TheFinalBankProject\clsString.h(43,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\USER\source\repos\TheFinalBankProject\TheFinalBankProject\clsString.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\USER\source\repos\TheFinalBankProject\TheFinalBankProject\clsString.h(61,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\USER\source\repos\TheFinalBankProject\TheFinalBankProject\clsString.h(198,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\USER\source\repos\TheFinalBankProject\TheFinalBankProject\clsString.h(331,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\USER\source\repos\TheFinalBankProject\TheFinalBankProject\clsString.h(380,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\USER\source\repos\TheFinalBankProject\TheFinalBankProject\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\source\repos\TheFinalBankProject\TheFinalBankProject\clsBankClient.h(384,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\source\repos\TheFinalBankProject\TheFinalBankProject\clsBankClient.h(394,28): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\source\repos\TheFinalBankProject\TheFinalBankProject\clsInputValidate.h(115,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\source\repos\TheFinalBankProject\TheFinalBankProject\clsInputValidate.h(119,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\source\repos\TheFinalBankProject\TheFinalBankProject\clsAddNewClientScreen.h(30,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\source\repos\TheFinalBankProject\TheFinalBankProject\clsUpdateClientScreen.h(47,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\source\repos\TheFinalBankProject\TheFinalBankProject\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\USER\source\repos\TheFinalBankProject\TheFinalBankProject\clsLoginScreen.h(51): warning C4715: 'clsLoginScreen::_Login': not all control paths return a value
+C:\Users\USER\source\repos\TheFinalBankProject\TheFinalBankProject\clsBankClient.h(354): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\USER\source\repos\TheFinalBankProject\TheFinalBankProject\clsLoginRegisterScreen.h(31): warning C4715: 'clsLoginRegisterScreen::_RegisterLoginRecords': not all control paths return a value
+C:\Users\USER\source\repos\TheFinalBankProject\TheFinalBankProject\clsBankClient.h(396): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+C:\Users\USER\source\repos\TheFinalBankProject\TheFinalBankProject\clsUser.h(329): warning C4715: 'clsUser::Save': not all control paths return a value
+C:\Users\USER\source\repos\TheFinalBankProject\TheFinalBankProject\clsTransferLogScreen.h(31): warning C4715: 'clsTransferLogScreen::_vTransferLogs': not all control paths return a value
+  TheFinalBankProject.vcxproj -> C:\Users\USER\source\repos\TheFinalBankProject\x64\Debug\TheFinalBankProject.exe

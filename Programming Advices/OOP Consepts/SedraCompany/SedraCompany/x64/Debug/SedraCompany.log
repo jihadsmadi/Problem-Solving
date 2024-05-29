@@ -1,0 +1,8 @@
+﻿  SedraCompany.cpp
+C:\Users\USER\source\repos\SedraCompany\SedraCompany\clsString.h(43,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\USER\source\repos\SedraCompany\SedraCompany\clsString.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\USER\source\repos\SedraCompany\SedraCompany\clsString.h(61,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\USER\source\repos\SedraCompany\SedraCompany\clsString.h(198,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\USER\source\repos\SedraCompany\SedraCompany\clsString.h(331,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\USER\source\repos\SedraCompany\SedraCompany\clsString.h(380,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  SedraCompany.vcxproj -> C:\Users\USER\source\repos\SedraCompany\x64\Debug\SedraCompany.exe

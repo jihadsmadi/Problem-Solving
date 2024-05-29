@@ -1,0 +1,4 @@
+﻿  Algorithms_ProblemSolving_Level4.cpp
+C:\Users\USER\source\repos\Algorithms_ProblemSolving_Level4\Algorithms_ProblemSolving_Level4\Algorithms_ProblemSolving_Level4.cpp(382,38): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\USER\source\repos\Algorithms_ProblemSolving_Level4\Algorithms_ProblemSolving_Level4\Algorithms_ProblemSolving_Level4.cpp(436): warning C4715: 'FormatDate': not all control paths return a value
+  Algorithms_ProblemSolving_Level4.vcxproj -> C:\Users\USER\source\repos\Algorithms_ProblemSolving_Level4\x64\Debug\Algorithms_ProblemSolving_Level4.exe

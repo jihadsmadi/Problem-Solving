@@ -1,0 +1,3 @@
+﻿  Codewers.cpp
+C:\Users\USER\source\repos\Codewers\Codewers\EasyLevel.h(23,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Codewers.vcxproj -> C:\Users\USER\source\repos\Codewers\x64\Debug\Codewers.exe
