@@ -1,0 +1,8 @@
+D:\Work Space\Programming\Problem-Solving\NetCodeRoadMap\Stack\NeetCode__MinimumStack\bin\Debug\NeetCode__MinimumStack.exe.config
+D:\Work Space\Programming\Problem-Solving\NetCodeRoadMap\Stack\NeetCode__MinimumStack\bin\Debug\NeetCode__MinimumStack.exe
+D:\Work Space\Programming\Problem-Solving\NetCodeRoadMap\Stack\NeetCode__MinimumStack\bin\Debug\NeetCode__MinimumStack.pdb
+D:\Work Space\Programming\Problem-Solving\NetCodeRoadMap\Stack\NeetCode__MinimumStack\obj\Debug\NeetCode_Stack_MinimumStack.csproj.AssemblyReference.cache
+D:\Work Space\Programming\Problem-Solving\NetCodeRoadMap\Stack\NeetCode__MinimumStack\obj\Debug\NeetCode_Stack_MinimumStack.csproj.SuggestedBindingRedirects.cache
+D:\Work Space\Programming\Problem-Solving\NetCodeRoadMap\Stack\NeetCode__MinimumStack\obj\Debug\NeetCode_Stack_MinimumStack.csproj.CoreCompileInputs.cache
+D:\Work Space\Programming\Problem-Solving\NetCodeRoadMap\Stack\NeetCode__MinimumStack\obj\Debug\NeetCode__MinimumStack.exe
+D:\Work Space\Programming\Problem-Solving\NetCodeRoadMap\Stack\NeetCode__MinimumStack\obj\Debug\NeetCode__MinimumStack.pdb

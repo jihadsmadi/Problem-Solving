@@ -1,0 +1,8 @@
+D:\Work Space\Programming\Problem-Solving\NetCodeRoadMap\Stack\NeetCode_EvaluateReversePolishNotation\bin\Debug\NeetCode_EvaluateReversePolishNotation.exe.config
+D:\Work Space\Programming\Problem-Solving\NetCodeRoadMap\Stack\NeetCode_EvaluateReversePolishNotation\bin\Debug\NeetCode_EvaluateReversePolishNotation.exe
+D:\Work Space\Programming\Problem-Solving\NetCodeRoadMap\Stack\NeetCode_EvaluateReversePolishNotation\bin\Debug\NeetCode_EvaluateReversePolishNotation.pdb
+D:\Work Space\Programming\Problem-Solving\NetCodeRoadMap\Stack\NeetCode_EvaluateReversePolishNotation\obj\Debug\NeetCode_EvaluateReversePolishNotation.csproj.AssemblyReference.cache
+D:\Work Space\Programming\Problem-Solving\NetCodeRoadMap\Stack\NeetCode_EvaluateReversePolishNotation\obj\Debug\NeetCode_EvaluateReversePolishNotation.csproj.SuggestedBindingRedirects.cache
+D:\Work Space\Programming\Problem-Solving\NetCodeRoadMap\Stack\NeetCode_EvaluateReversePolishNotation\obj\Debug\NeetCode_EvaluateReversePolishNotation.csproj.CoreCompileInputs.cache
+D:\Work Space\Programming\Problem-Solving\NetCodeRoadMap\Stack\NeetCode_EvaluateReversePolishNotation\obj\Debug\NeetCode_EvaluateReversePolishNotation.exe
+D:\Work Space\Programming\Problem-Solving\NetCodeRoadMap\Stack\NeetCode_EvaluateReversePolishNotation\obj\Debug\NeetCode_EvaluateReversePolishNotation.pdb

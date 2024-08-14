@@ -1,0 +1,8 @@
+D:\Work Space\Programming\Problem-Solving\NetCodeRoadMap\Stack\ValidateParentheses\bin\Debug\ValidateParentheses.exe.config
+D:\Work Space\Programming\Problem-Solving\NetCodeRoadMap\Stack\ValidateParentheses\bin\Debug\ValidateParentheses.exe
+D:\Work Space\Programming\Problem-Solving\NetCodeRoadMap\Stack\ValidateParentheses\bin\Debug\ValidateParentheses.pdb
+D:\Work Space\Programming\Problem-Solving\NetCodeRoadMap\Stack\ValidateParentheses\obj\Debug\ValidateParentheses.csproj.AssemblyReference.cache
+D:\Work Space\Programming\Problem-Solving\NetCodeRoadMap\Stack\ValidateParentheses\obj\Debug\ValidateParentheses.csproj.SuggestedBindingRedirects.cache
+D:\Work Space\Programming\Problem-Solving\NetCodeRoadMap\Stack\ValidateParentheses\obj\Debug\ValidateParentheses.csproj.CoreCompileInputs.cache
+D:\Work Space\Programming\Problem-Solving\NetCodeRoadMap\Stack\ValidateParentheses\obj\Debug\ValidateParentheses.exe
+D:\Work Space\Programming\Problem-Solving\NetCodeRoadMap\Stack\ValidateParentheses\obj\Debug\ValidateParentheses.pdb

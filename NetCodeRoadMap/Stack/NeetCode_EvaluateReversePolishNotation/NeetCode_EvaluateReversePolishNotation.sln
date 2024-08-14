@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeetCode_EvaluateReversePolishNotation", "NeetCode_EvaluateReversePolishNotation.csproj", "{FA0C35F4-F66B-443D-BF7E-1F49E7E3AF91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA0C35F4-F66B-443D-BF7E-1F49E7E3AF91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA0C35F4-F66B-443D-BF7E-1F49E7E3AF91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA0C35F4-F66B-443D-BF7E-1F49E7E3AF91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA0C35F4-F66B-443D-BF7E-1F49E7E3AF91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A6A4038-5D0E-4FAD-A77C-7660EAAF0895}
+	EndGlobalSection
+EndGlobal
